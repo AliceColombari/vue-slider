@@ -19,7 +19,7 @@
 
 .item {
     height: 100%;
-    display: none;
+    /* display: none; */
     position: relative;
 }
 
